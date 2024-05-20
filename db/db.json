@@ -1,0 +1,132 @@
+{
+  "ingredientes": {
+    "paes": [
+      {
+        "id": 1,
+        "tipo": "Italiano Branco"
+      },
+      {
+        "id": 2,
+        "tipo": "3 Queijos"
+      },
+      {
+        "id": 3,
+        "tipo": "Parmesão e Orégano"
+      },
+      {
+        "id": 4,
+        "tipo": "Integral"
+      }
+    ],
+    "carnes": [
+      {
+        "id": 1,
+        "tipo": "Maminha"
+      },
+      {
+        "id": 2,
+        "tipo": "Alcatra"
+      },
+      {
+        "id": 3,
+        "tipo": "Picanha"
+      },
+      {
+        "id": 4,
+        "tipo": "Veggie burger"
+      }
+    ],
+    "opcionais": [
+      {
+        "id": 1,
+        "tipo": "Bacon"
+      },
+      {
+        "id": 2,
+        "tipo": "Cheddar"
+      },
+      {
+        "id": 3,
+        "tipo": "Salame"
+      },
+      {
+        "id": 4,
+        "tipo": "Tomate"
+      },
+      {
+        "id": 4,
+        "tipo": "Cebola roxa"
+      },
+      {
+        "id": 4,
+        "tipo": "Pepino"
+      }
+    ]
+  },
+  "status": [
+    {
+      "id": "1",
+      "tipo": "Solicitado"
+    },
+    {
+      "id": "2",
+      "tipo": "Em produção"
+    },
+    {
+      "id": "3",
+      "tipo": "Finalizado"
+    }
+  ],
+  "burgers": [
+    {
+      "id": "0433",
+      "nome": "Natã Lomeu fernandes",
+      "carne": "Alcatra",
+      "pao": "Italiano Branco",
+      "opcionais": [
+        "Cheddar"
+      ],
+      "status": "Solicitado"
+    },
+    {
+      "id": "5644",
+      "nome": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "f0d1",
+      "nome": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "d0c5",
+      "nome": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "838f",
+      "nome": "",
+      "carne": "",
+      "pao": "Italiano Branco",
+      "opcionais": [],
+      "status": "Solicitado"
+    },
+    {
+      "id": "3eb6",
+      "nome": "",
+      "carne": "",
+      "pao": "",
+      "opcionais": [],
+      "status": "Solicitado"
+    }
+  ]
+}
