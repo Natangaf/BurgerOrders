@@ -31,12 +31,12 @@ Siga as instruções abaixo para configurar o projeto localmente.
         cd BurgerOrders
    ```
 
-2.Instale as dependências do backend:
+2. Instale as dependências do backend:
 
-    ```bash
+   ```bash
         cd server
         npm install
-    ```
+   ```
 
 3. Inicie o servidor backend:
 
